@@ -1,6 +1,7 @@
 # YouTube Short Story Maker
  > **Note**:this project is discontinued because someone made it already here is the link:
 https://github.com/elebumm/RedditVideoMakerBot
+> also if you have a better name please let me know
 
 
 This program automatically creates short videos from Reddit stories, complete with subtitles!
