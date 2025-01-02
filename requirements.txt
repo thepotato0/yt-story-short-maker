@@ -1,5 +1,6 @@
 moviepy
 ffmpeg
+ffmpeg-python
 whisper
 praw
 requests
