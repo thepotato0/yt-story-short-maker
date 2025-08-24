@@ -4,10 +4,9 @@ https://github.com/elebumm/RedditVideoMakerBot
 > also if you have a better name please let me know
 
 
-This program automatically creates short videos from Reddit stories, complete with subtitles![!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmacc.app/tip/thepotato)
+This program automatically creates short videos from Reddit stories, complete with subtitles
 
-
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
 
 ## Advantages
 
